@@ -17,6 +17,10 @@ A key difference in our approach lies in the objective. While the reference pape
 
 A future goal is to accelerate the computation-heavy parts of this algorithm using PyTorch.
 
+## Disclaimer
+
+Please note that this is an independent implementation based on my understanding of the original paper, and is not the official code. There may be bugs or inconsistencies with the original author's implementation. This implementation has not been reviewed or endorsed by the original authors. Use at your own risk.
+
 ## Data & Preliminary Validation
 
 Due to the difficulty in finding publicly available, continuously recorded iEEG data with precise seizure annotations, the initial validation was performed using two strategies:
